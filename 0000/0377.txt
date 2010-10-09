@@ -17,5 +17,5 @@
 そうね……\xf000븁\x0000いわが　すきなら　あした……\xfffeできれば　べつの　じかんたいに\xf000븀\x0000ここに　くると　いいわ
 Route 8
 Route 8
-Trainer Tips\xf000븁\x0000\xfffe\xfffeIf you want to\xfffeswitch items in your bag,\xf000븁\x0000\xfffejust press the SELECT button!\xfffeIt's that easy!
-Cylinder Bridge\xfffeIsshu's railway bridge
+Dicas de Treinador\xf000븁\x0000\xfffe\xfffeSe queres trocar\xfffetrocar items na tua mochila,\xf000븁\x0000\xfffesimplesmente carrega no botão SELECT!\xfffeÉ facil!
+'Cylinder Bridge'\xfffePonte ferroviária de Isshu.
