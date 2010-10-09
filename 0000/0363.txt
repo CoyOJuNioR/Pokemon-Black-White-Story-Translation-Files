@@ -5,5 +5,5 @@
 かんそうはだの　ポケモンは\xfffeみずタイプの　わざや\xf000븀\x0000あめが　だいすき　なの♪\xf000븁\x0000これ　ポケモンの\xfffeとくせいの　おはなし　ね！
 Route 6
 Route 6
-Trainer Tips\xf000븁\x0000\xfffe\xfffeThere are useful tools\xfffeand pockets in your bag.\xf000븁\x0000\xfffeSome of these may have\xfffea square check box.\xf000븁\x0000\xfffeChecking that box will register\xfffethat tool or pocket to the Y button.\xf000븁\x0000\xfffeYou can register many tools to the\xfffeY button for easy access!
-The Seasonal Research Facility\xfffeStudying the changes of seasons
+Dicas de Treinador\xf000븁\x0000\xfffe\xfffeExistem ferramentas uteis\xfffee bolsos na tua mochila.\xf000븁\x0000\xfffeAlguns deles podem ter\xfffeuma caixa de selecção quadrada.\xf000븁\x0000\xfffeSelecionando essa caixa irá registar \xfffeessa ferramenta ou bolso para o botão Y.\xf000븁\x0000\xfffePodes registar facilmente muitas ferramentas para o\xfffebotão Y!
+O Mecanismo de Pesquisa Sazonal está\xfffea  Estudar as mudanças das estações
