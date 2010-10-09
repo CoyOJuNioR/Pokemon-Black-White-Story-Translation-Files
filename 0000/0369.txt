@@ -9,6 +9,6 @@ O 'Live Caster' do \xf000Ā\x0001\x0000\xfffeestá ligado.\xf000븁\x0000
 しゅるばばばーっ！！
 ばりゅるるるるーっ！！
 ひどい　あらし…！\xf000븁\x0000\xfffeあの　ポケモンの　しわざらしい！\xf000븁\x0000
-Route 7
+Roota 7
 Torre do Céu\xfffeOnde justas almas vêm para descansar.
 Dicas de Treinador\xf000븁\x0000\xfffe\xfffeO teu Pokémon irá ganhar\xfffePontos de Exp durante os combates.\xf000븁\x0000\xfffeUm Pokémon fraco irá ganhar mais EXP\xfffeque um Pokémon forte.\xf000븁\x0000\xfffeUm Pokémon forte irá ganhar menos EXP\xfffeque um Pokémon fraco.\xf000븁\x0000\xfffeAo nivel que os seus Pokémon crescem \xfffeeles irão ganhar EXP devagar.
