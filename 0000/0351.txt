@@ -1,5 +1,5 @@
-The Live Caster is ringing.
-\xf000Ā\x0001\x0000's\xfffeLive Caster is connected.\xf000븁\x0000
+O 'Live Caster' está a tocar.
+O 'Live Caster' do\xf000Ā\x0001\x0000\xfffeestá ligado.\xf000븁\x0000
 Mom: \xf000Ā\x0001\x0000.\xf000븁\x0000
 やっと　おいついた……\xfffeもう　ここまで　きたのね\xf000븁\x0000「おそらく　いまごろは\xfffe　サンヨウシティに　むかってます」って\xf000븀\x0000\xfffeアララギはかせに　きいてね\xf000븁\x0000\xfffeで　ママから\xfffeまた　プレゼント！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000！\xfffeこれを　はいて　いきなさい\xf000븁\x0000
 \xf000Ā\x0001\x0000は\xfffe\xf000\xff00\x0001\x0002ランニングシューズ\xf000\xff00\x0001\x0000を　もらった！
@@ -18,4 +18,4 @@ Mom: \xf000Ā\x0001\x0000.\xf000븁\x0000
 トレーナーとの　ポケモンしょうぶは\xfffeにげられない　しんけんしょうぶ　よ！
 Route 2
 Route 2
-Trainer Tips\xf000븁\x0000\xfffe\xfffeAll Pokémon that are involved in\xfffe a battle earn EXP Points!\xf000븁\x0000\xfffeThe more your Pokémon battle,\xfffethe stronger they will become. 
+Dicas de Treinador\xf000븁\x0000\xfffe\xfffeTodos os Pokémon que estão envolvidos num\xfffe combate ganham Pontos de EXP!\xf000븁\x0000\xfffeQuanto mais duro for o seu combate Pokémon,\xfffemais fortes eles se tornaram. 
