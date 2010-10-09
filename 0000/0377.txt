@@ -15,7 +15,7 @@
 ゆうがたに　みつけた\xfffeさらさらいわ　を　あげるわ\xf000븁\x0000
 よるに　みつけた\xfffeつめたいいわ　を　あげるわ\xf000븁\x0000
 そうね……\xf000븁\x0000いわが　すきなら　あした……\xfffeできれば　べつの　じかんたいに\xf000븀\x0000ここに　くると　いいわ
-Route 8
-Route 8
+Rota 8
+Rota 8
 Dicas de Treinador\xf000븁\x0000\xfffe\xfffeSe queres trocar\xfffetrocar items na tua mochila,\xf000븁\x0000\xfffesimplesmente carrega no botão SELECT!\xfffeÉ facil!
 'Cylinder Bridge'\xfffePonte ferroviária de Isshu.
