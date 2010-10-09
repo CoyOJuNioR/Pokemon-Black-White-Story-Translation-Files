@@ -16,6 +16,6 @@ Mom: \xf000Ā\x0001\x0000.\xf000븁\x0000
 えんりょ　しなくて　いいのにさ！
 ポケモンの　げんきが　なくて\xfffeたたかわせたくない　ときは……\xf000븀\x0000みちを　あるけば　いいよ！\xf000븁\x0000ポケモンが　とびだすのは　くさむらさ
 トレーナーとの　ポケモンしょうぶは\xfffeにげられない　しんけんしょうぶ　よ！
-Route 2
-Route 2
+Rota 2
+Rota 2
 Dicas de Treinador\xf000븁\x0000\xfffe\xfffeTodos os Pokémon que estão envolvidos num\xfffe combate ganham Pontos de EXP!\xf000븁\x0000\xfffeQuanto mais duro for o seu combate Pokémon,\xfffemais fortes eles se tornaram. 
