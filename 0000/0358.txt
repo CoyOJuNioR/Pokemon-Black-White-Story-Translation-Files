@@ -12,5 +12,5 @@
 おっと！　トレーナー\xfffeすなの　いろを　よくみてごらん\xf000븁\x0000いろの　こい　すな\xfffeうすい　すな　があるだろう？\xf000븁\x0000いろの　こい　すなには\xfffeポケモンが　ひそんでいるんだぞ！
 Route 4
 Route 4
-Trainer Tips\xf000븁\x0000\xfffe\xfffePokémon moves require\xfffesome form of energy.\xf000븁\x0000\xfffeThis energy is called Power Points,\xfffeor PP for short.\xf000븁\x0000\xfffeWhen a move runs out of PP,\xfffeit can no longer be used!\xf000븁\x0000\xfffeIf your Pokémon runs out of PP,\xfffeget to the Pokémon Center right away!
+Dicas de Treinador\xf000븁\x0000\xfffe\xfffeOs movimentos dos Pokémon requerem\xfffeuma certa energia.\xf000븁\x0000\xfffeEsta energia chama-se 'Power Points',\xfffeou PP em abreviatura.\xf000븁\x0000\xfffeQuando um movimento é executado além do que PP consegue,\xfffenão pode ser mais usado!\xf000븁\x0000\xfffeSe acontecer isso ao teu Pokemon de ficar sem PP,\xfffedirige-te ao mais próximo Centro de Pokemon!
 おつかれの　さぎょういんは\xfffeヒウンシティちかくの　プレハブへ！
