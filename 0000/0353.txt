@@ -40,8 +40,8 @@
 ダ　ダブルバトルの　おさそい　なの？\xf000븁\x0000\xfffeま　まだ　あたしたちの\xfffeポケモン　そだってないの……\xf000븁\x0000そだてやさんに　あずけようかな
 あたちたちの　ぴったり\xfffeいきの　あった　コンビネーション\xf000븁\x0000\xfffeどんな　トレーナーさんでも\xfffeてんてこまい　するんだよ
 ときどき　ポケモンと\xfffeあそばせて　もらってる！
-Route 3
-Route 3
+Rota 3
+Rota 3
 Dicas de Treinador\xf000븁\x0000\xfffe\xfffeOs Pokémon que estão no topo \xfffeda tua equipa são importantes!\xf000븁\x0000\xfffeEles são os que podem ser chamados \xfffeno principio do combate!
 Creche Pokémon \xfffeIremos ajudar a elevar o seu Pokemon
 sem dados
