@@ -42,6 +42,6 @@
 ときどき　ポケモンと\xfffeあそばせて　もらってる！
 Route 3
 Route 3
-Trainer Tips\xf000븁\x0000\xfffe\xfffeThe Pokémon at the top of\xfffeyour party are important!\xf000븁\x0000\xfffeThey are the ones that may\xfffebe sent out to battle first!
-Pokémon Daycare\xfffeWe'll help raise your Pokémon
-no data
+Dicas de Treinador\xf000븁\x0000\xfffe\xfffeOs Pokémon que estão no topo \xfffeda tua equipa são importantes!\xf000븁\x0000\xfffeEles são os que podem ser chamados \xfffeno principio do combate!
+Creche Pokémon \xfffeIremos ajudar a elevar o seu Pokemon
+sem dados
