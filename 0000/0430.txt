@@ -10,7 +10,7 @@ Cheren: Hey...!\xfffeNão te vás embora sem o Pokémon!\xf000븁\x0000
 Cheren: A prenda.\xfffeE tu ainda não a abriste?\xf000븁\x0000Os nossos Pokémon!\xfffeEu quero ve-los.
 Bel: Hey, que tipo de Pokémon\xfffevão escolher...?
 \xf000Ā\x0001\x0000\xfffeopened the gift box!\xf000븁\x0000
-Há 3 pokémons\xfffeincluido com esta\xfffecarta, cada um \xfffeescolhe o seu!\xfffeAté Breve!\xfffe\xfffe　　　　　　　　　　　　Araragi
+Há 3 pokémons\xfffeincluidos com esta\xfffecarta, cada um \xfffeescolhe o seu!\xfffeAté Breve!\xfffe\xfffe　　　　　　　　　　　　Araragi
 Pokémon de Fogo\xfffe「\xf000\xff00\x0001\x0001\xf000ā\x0001\x0001\xf000\xff00\x0001\x0000」 está no interior.\xf000븁\x0000Escolher este pokemon?
 Pokémon de Erva\xfffe「\xf000\xff00\x0001\x0001\xf000ā\x0001\x0001\xf000\xff00\x0001\x0000」 está no interior.\xf000븁\x0000Escolher este pokemon?
 Pokémon de Água\xfffe「\xf000\xff00\x0001\x0001\xf000ā\x0001\x0001\xf000\xff00\x0001\x0000」 está no interior.\xf000븁\x0000Escolher este pokemon?
