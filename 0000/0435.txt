@@ -1,6 +1,6 @@
 Cheren: Aqui vamos!\xf000븁\x0000
 Bel: Professora!\xf000븁\x0000
-Aqui está você!\xf000븁\x0000Agora que está aqui\xfffedevo apresentar-me a você...\xf000븁\x0000O meu nome é ...\xf000븁\x0000
+Aqui está você!\xf000븁\x0000Agora que estão aqui\xfffedevo apresentar-me a vocês...\xf000븁\x0000O meu nome é ...\xf000븁\x0000
 Cheren: ...Professora Araragi?\xfffeOuvi falar muito sobre você!\xf000븁\x0000
 Araragi: Certamente que sim!\xfffeNós praticamente já nos conhecemos.\xf000븁\x0000Posso ver os vossos Pokemons?\xfffe\xf000븁\x0000Estou a ver... parecem felizes.\xf000븁\x0000hmmm……\xf000븁\x0000Bem, eu gosto de ver isso!\xf000븁\x0000
 Diz-me, já ouviste falar de meter alcunha\xfffeno Pokemon?\xf000븁\x0000....\xf000븀\x0000Nesse caso porque\xfffenão meteis uma alcunha nos vossos Pokémon!\xf000븁\x0000Que dizes?\xfffeIdes dar uma alcunha ao vosso novo Pokémon?
@@ -12,7 +12,7 @@ Cheren: Como assim?\xf000븁\x0000
 Bel: Fala Pokémon……?\xf000븁\x0000
 Araragi: Wow!\xfffeVerdade!\xf000븁\x0000Claro que depois vocês vão se entender\xfffeum ao outro.\xf000븁\x0000Os Pokémon não são ferramentas\xfffelembrai-vos disso!\xf000븁\x0000
 Vamos ver……!\xf000븁\x0000Posso confiar em vocês para me ajudarem?\xf000븁\x0000Claro que posso!\xf000븀\x0000Voces os três são uma equipa perfeita!\xf000븁\x0000....\xf000븁\x0000Eu já tinha visto isso!\xf000븁\x0000O meu sonho está a tornar-se realidade!\xf000븀\x0000Desculpem, estou tão contente!!\xfffe\xf000븁\x0000Bem, é melhor falar-vos da\xfffe Pokedex!\xf000븁\x0000
-...\xf000븁\x0000É um dispositivo de alta tecnologia utilizado para\xffferefistar dados dos Pokémon.\xf000븁\x0000Então podeis me ajudar?\xfffeEncontrar e fazer novas amizades com novos Pokemon?
+...\xf000븁\x0000É um dispositivo de alta tecnologia utilizado para\xffferegistar dados dos Pokémon.\xf000븁\x0000Então podeis me ajudar?\xfffeEncontrar e fazer novas amizades\xfffe com novos Pokemon?
 Araragi: Okay!\xf000븁\x0000Eu acredito que tenhas percebido tudo.\xfffeAcho que não e falta nada para dizer\xf000븁\x0000Oh, espera!\xf000븁\x0000\xf000Ā\x0001\x0000Preciso de vos ensinar como combater!\xf000븀\x0000É muito importante e muito perigoso\xf000븀\x0000combater sem saber como!
 Bel: Claro!\xf000븁\x0000Eu gosto de ajudar!\xf000븁\x0000
 Cheren: Eu também!\xf000븁\x0000Eu sei muito sobre os Pokémons\xfffedevo ser uma grande ajuda!\xf000븁\x0000
@@ -22,7 +22,7 @@ Araragi: Okay.\xf000븁\x0000Agora vou-vos ensinar\xfffecomo apanhar um Pokémon
 Bel: Isto é espectacular vamos lá!\xf000븀\x0000Do que estamos á espera?\xf000븁\x0000Vamos lá\xfffeaprender como apanhar Pokémons!\xf000븁\x0000
 Cheren: Espera!\xf000븁\x0000Tenho de ir a minha casa depressa\xfffee dizer aos meus pais!
 Bel: Vai lá.\xf000븁\x0000Encontramo-nos lá fora.
-Cheren: ……\xf000븁\x0000Estou a ficar memso muito nervoso..
+Cheren: ……\xf000븁\x0000Estou a ficar mesmo muito nervoso..
 Araragi: ハーイ!　\xf000Ā\x0001\x0000!\xfffeさいきんの　ちょうしは　どう?\xf000븁\x0000
 Papa Araragi: よお　\xf000Ā\x0001\x0000!\xfffeポケモンと　であっておるか?\xf000븁\x0000イッシュちほうは　もちろん\xfffeせかいには　ほんとうに\xf000븀\x0000おおくの　ポケモンが　いるぞ!
 sem dados
