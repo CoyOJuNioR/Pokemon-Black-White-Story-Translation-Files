@@ -10,7 +10,7 @@ Cheren: \xf000Ā\x0001\x0000\xfffeAnda para aqui!\xf000븁\x0000
 Posso ter a atenção de todos!\xf000븁\x0000Eu sou o líder do Team Plasma\xf000븁\x0000Estou aqui para contar-vos um conto\xfffesobre a besta lendária.\xf000븀\x0000Uma besta que não é vista por muitos humanos!
 Ha?
 O que?
-Geechisu: Temos vivido lado a lado com os\xfffenossos parceiros Pokémon.\xf000븀\x0000Isso é o que realmente devemos \xfffefazer?\xf000븁\x0000Eles são realmente a nossa igualdade,\xfffeou somos os únicos que conseguimos os controlar!\xf000븁\x0000Nós fazemos os combater todos os dias\xfffee ensinamos-lhes o que eles precisam!xf000븁\x0000so...\xfffeEles são realmente a nossa igualdade？\xf000븁\x0000Ou são as nossas armas\xfffede guerra……\xf000븁\x0000Eles sofrem danos e não\xfffecausa nenhum dano a nenhum de vocês!\xf000븁\x0000
+Geechisu: Temos vivido lado a lado com os\xfffenossos parceiros Pokémon.\xf000븀\x0000Isso é o que realmente devemos \xfffefazer?\xf000븁\x0000Eles são realmente a nossa igualdade,\xfffeou somos os únicos que controlamos!\xf000븁\x0000Nós fazemos os combater todos os dias\xfffee ensinamos-lhes o que eles precisam!\xf000븁\x0000Eles são realmente a nossa igualdade？\xf000븁\x0000Ou são as nossas armas\xfffede guerra……\xf000븁\x0000Eles sofrem danos e não\xfffecausa nenhum dano a nenhum de vocês!\xf000븁\x0000
 トレーナーは\xfffeポケモンに　すきかって\xf000븀\x0000めいれい　している……\xf000븁\x0000しごとの　パートナーとしても\xfffeこきつかっている……\xf000븁\x0000そんなことはないと　だれが\xfffeはっきりと　いいきれるのでしょうか
 ドキ！
 そんな
@@ -28,7 +28,7 @@ Cheren: ……ぼくは　チェレン\xfffeこちらは　\xf000Ā\x0001\x0000\
 N: \xf000븉\x0001\x0001ポケモンずかん　ね……\xf000븁\x0000そのために　かずおおくの　ポケモンを\xfffeモンスターボールに　とじこめるんだ\xf000븁\x0000ボクも　トレーナーだが\xfffeいつも　ぎもんに　おもう\xf000븁\x0000ポケモンは\xfffeそれで　シアワセなのか　って\xf000븉\x0001\x0000\xf000븁\x0000
 \xf000븉\x0001\x0001そうだね　\xf000Ā\x0001\x0000だったか\xf000븁\x0000キミの　ポケモンの　こえを\xfffeもっと　きかせてもらおう！\xf000븉\x0001\x0000\xf000븁\x0000
 N: \xf000븉\x0001\x0001モンスターボールに\xfffeとじこめられている　かぎり……\xf000븁\x0000ポケモンは　かんぜんな\xfffeそんざいには　なれない\xf000븁\x0000ボクは　ポケモンという\xfffeトモダチの　ため\xf000븀\x0000せかいを　かえねば　ならない\xf000븉\x0001\x0000\xf000븁\x0000
-Cheren: ……Não há nenhum ginásio aqui.\xf000븁\x0000A pensar nisso, também não há treinadores\xfffeaqui!\xf000븁\x0000Penso que vou á Cidade de Sanyou\xfffee desafiar o líder de Ginásio\xf000븁\x0000é melhor ires também!\xf000븁\x0000Oh espera……　Temos de ir ao \xfffeCentro Pokemon.\xf000븁\x0000A Professora está a nossa espera na entrada.\xf000븁\x0000É melhor ires.\xfffeAcho que ela não é paciente\xf000븁\x0000Enquanto fazes isso\xfffeeu vou combater para ficar forte\xfffee mais forte.\xf000븀\x0000Vemo-nos Logo!x\xf000븁\x0000
+Cheren: ……Não há nenhum ginásio aqui.\xf000븁\x0000A pensar nisso, também não há treinadores\xfffeaqui!\xf000븁\x0000Penso que vou á Cidade de Sanyou\xfffee desafiar o líder de Ginásio\xf000븁\x0000é melhor ires também!\xf000븁\x0000Oh espera……　Temos de ir ao \xfffeCentro Pokemon.\xf000븁\x0000A Professora está a nossa espera na entrada.\xf000븁\x0000É melhor ires.\xfffeAcho que ela não é paciente\xf000븁\x0000Enquanto fazes isso\xfffeeu vou combater para ficar forte\xfffee mais forte.\xf000븀\x0000Vemo-nos Logo!\xf000븁\x0000
 Oh?\xf000븁\x0000 Eu não falo muito bem em inglês\xfffeeu falo mais Kanji！
 Acreditas?\xfffeChamaram-me avó!\xf000븁\x0000Pareço assim tão velho！
 Os Pokémon crescem e ficam mais fortes quando sobem de nivel..\xf000븁\x0000se o teu Pokémon foi de um\xfffeé possivel não te obedecer.\xf000븁\x0000Vais precisar de uma certa quantia de\xfffecrachás para impressionar o Pokémon.\xf000븁\x0000Tem isso em mente jovem treinador!
