@@ -39,19 +39,19 @@ Bel: Oops...!\xf000븁\x0000\xf000Ā\x0001\x0000...\xfffeDesculpa por esta confu
 Bel: Oops...!\xf000븁\x0000\xf000Ā\x0001\x0000...\xfffeDesculpa por esta confusão!\xf000븀\x0000Não te importas?\xf000븁\x0000Bem,está bem, mas desculpa outra vez...\xfffeEu limpo isto mais tarde!\xf000븁\x0000
 Cheren: ... ... ...\xfffe... ... ...\xf000븁\x0000Bel, olha o que fizeste!\xfffeTu não cresces?\xf000븁\x0000
 Bel: Uau!\xfffeEstá pior do que eu pensava!\xf000븁\x0000
-Bem, Combater é memso fixe!\xfffeEu habituo-me!!!\xf000븁\x0000Eu vou ser a melhor \xfffetreinadora Pokemon de sempre!\xf000븁\x0000... Desculpa estou a ficar\xfffetoda entusiamada, \xf000Ā\x0001\x0000...\xf000븁\x0000
-Cheren: ... Bem, os vossos Pokémon ficaram\xfffeferidos depois do combate!\xf000븁\x0000Bem... é melhor cura-los...\xfffeCurai sempre os vossos Pokémon...!\xf000븁\x0000
+Bem, Combater é mesmo fixe!\xfffeEu habituo-me!!!\xf000븁\x0000Eu vou ser a melhor \xfffetreinadora Pokemon de sempre!\xf000븁\x0000... Desculpa estou a ficar\xfffetoda entusiamada, \xf000Ā\x0001\x0000...\xf000븁\x0000
+Cheren: ... Bem, os vossos Pokémon ficaram\xfffeferidos depois do combate!\xf000븁\x0000Bem... é melhor cura-los...\xfffeCurai sempre os vossos Pokémon..!\xf000븁\x0000
 Cheren curou o Pokemon da　Bel!\xfffeEstá melhor e saudável!
 \xf000Ā\x0001\x0000, Vou também curar o teu \xfffePokémon...\xf000븁\x0000
 Cheren curou o Pokemon do \xf000Ā\x0001\x0000!\xfffeEstá melhor e saudável!
 Cheren: ポケモンの　たいりょく……\xfffeＨＰを　へらすことなく\xf000븀\x0000しょうりするのは　すごいよ\xf000븁\x0000だけど　ポケモンの　わざポイント……\xfffeＰＰが　へっているからね\xf000븁\x0000
-Bel: Hey! Cheren, porque não\xfffecombates também?\xf000븁\x0000É muito divertido!\xfffeEntão... Vais combater?\xf000븀\x0000Pensa como é divertido!\xf000븁\x0000
+Bel: Hey! Cheren, porque não\xfffecombates também?\xf000븁\x0000É muito divertido!\xfffeEntão... Vais combater?\xf000븀\x0000Pensa no divertido que é!\xf000븁\x0000
 Cheren: Okay...!\xf000븁\x0000É bom para testar as minhas leituras!\xfffeOkay, vou combater!\xf000븀\x0000Vou combater também!\xf000븁\x0000Se dizes que combater é divertido,\xfffeentão por que não experimentar?\xf000븀\x0000Não tenho nada a perder!\xf000븁\x0000
 \xf000Ā\x0001\x0000……\xf000븁\x0000へやは　よごさないと　ちかうから\xfffeぼくとも　しょうぶ　してくれないか？\xf000븀\x0000よければ　はなしかけてよ
 Cheren: Hey!\xf000븁\x0000
 Bel: あたしね　\xf000Ā\x0001\x0000と\xfffeCherenの　ポケモンしょうぶ　って\xf000븀\x0000ぜったいに　みごたえ　あるとおもう！
 Cheren: Pergunto-me?\xfffeVais lutar comigo a serio?
-Bem, vamos começar...\xfffeTenho que admitir,estou um bocado nervoso!\xf000븁\x0000Por isso se perder, é isso!\xfffeSim, de estar nervoso...!\xf000븁\x0000Bem, vamos lá!\xfffeBoa sorte \xf000ā\x0001\x0001, Espero que ganhes！\xf000븁\x0000
+Bem, vamos começar...\xfffeTenho que admitir, estou um bocado nervoso!\xf000븁\x0000Por isso se perder, é isso!\xfffeSim, de estar nervoso...!\xf000븁\x0000Bem, vamos lá!\xfffeBoa Sorte \xf000ā\x0001\x0001, Espero que ganhes！\xf000븁\x0000
 Cheren: Ves...?\xfffeCombater com um Pokemon da-te uma ligação.\xf000븁\x0000Essa ligação é importante...\xfffeVai te ajudar a vencer!\xf000븁\x0000Mas também...\xfffeCombater a serio é divertido!\xf000븀\x0000Tinhas razão Bel...\xf000븁\x0000
 Cheren: Ves...?\xfffeCombater com um Pokemon da-te uma ligação.\xf000븁\x0000Essa ligação é importante...\xfffeVai te ajudar a vencer!\xf000븁\x0000Mas também...\xfffeCombater a serio é divertido!\xf000븀\x0000Tinhas razão Bel...\xf000븁\x0000
 Cheren: この　かんどう……\xfffeようやく　トレーナーに　なれたんだ\xf000븁\x0000……じゃなくて\xfffeへやのこと　きみの　ママに\xf000븀\x0000あやまらないと　いけないね\xf000븁\x0000
