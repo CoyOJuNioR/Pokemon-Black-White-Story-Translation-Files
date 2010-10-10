@@ -5,11 +5,11 @@ Cheren: Hey,　Bel\xf000븁\x0000Estás a agir como uma criança de 10 anos\xfff
 Bel: Hm, estou aqui, desculpa \xfffe\xf000Ā\x0001\x0000. O　Cheren tem razão...\xf000븁\x0000
 Bel: Onde estão os Pokémons?\xf000븁\x0000\xf000Ā\x0001\x0000, Eu quero mesmo\xfffever o que está dentro da caixa!\xf000븁\x0000
 Cheren: Claro.\xf000븁\x0000
-Dentro da prenda,\xfffeestão Pokémons é vossa espera.\xf000븁\x0000So,　\xf000Ā\x0001\x0000\xfffepor favor abre\xf000븀\x0000e vê o que está dentro da prenda.\xf000븀\x0000Eu também quero ter o meu próprio Pokémon!
+Dentro da prenda,\xfffeestão Pokémons á nossa espera.\xf000븁\x0000\xf000Ā\x0001\x0000\xfffepor favor abre\xf000븀\x0000e vê o que está dentro da prenda.\xf000븀\x0000Eu também quero ter o meu próprio Pokémon!
 Cheren: Hey...!\xfffeNão te vás embora sem o Pokémon!\xf000븁\x0000
 Cheren: A prenda.\xfffeE tu ainda não a abriste?\xf000븁\x0000Os nossos Pokémon!\xfffeEu quero ve-los.
 Bel: Hey, que tipo de Pokémon\xfffevão escolher...?
-\xf000Ā\x0001\x0000\xfffeopened the gift box!\xf000븁\x0000
+\xf000Ā\x0001\x0000\xfffeabriu a prenda!\xf000븁\x0000
 Há 3 pokémons\xfffeincluidos com esta\xfffecarta, cada um \xfffeescolhe o seu!\xfffeAté Breve!\xfffe\xfffe　　　　　　　　　　　　Araragi
 Pokémon de Fogo\xfffe「\xf000\xff00\x0001\x0001\xf000ā\x0001\x0001\xf000\xff00\x0001\x0000」 está no interior.\xf000븁\x0000Escolher este pokemon?
 Pokémon de Erva\xfffe「\xf000\xff00\x0001\x0001\xf000ā\x0001\x0001\xf000\xff00\x0001\x0000」 está no interior.\xf000븁\x0000Escolher este pokemon?
@@ -26,7 +26,7 @@ O \xf000Ā\x0001\x0000 recebeu um \xfffe\xf000ā\x0001\x0001!
 Bel: Wow!\xfffeÉ um Pokémon porreiro!\xf000븀\x0000Cheren, escolhe um também!\xf000븁\x0000
 Cheren: Hmmmm...\xfffeQue Pokémon devo escolher...?\xf000븁\x0000Vou escolher o \xf000ā\x0001\x0001!\xfffeEste é um dos mais fortes!\xf000븁\x0000
 Bel: Bem... Está na hora de fazer uma\xfffeBatalha Pokémon , acho eu...\xf000븀\x0000... Sim é uma boa ideia!\xf000븁\x0000Vamos lá!\xfffeVamos fazer uma Batalha Pokémon!\xf000븁\x0000
-Cheren: Bel, já fizeste alguma\xfffeBatlha Pokémon?\xf000븁\x0000Deves te habituar ao teu\xfffePokémon antes de combateres!\xf000븁\x0000
+Cheren: Bel, já fizeste alguma\xfffeBatalha Pokémon?\xf000븁\x0000Deves te habituar ao teu\xfffePokémon antes de combateres!\xf000븁\x0000
 Bel: Mas tu és um dos que diz:\xfffeA melhor forma de aprender é fazer!\xf000븀\x0000Por isso... Esta é a melhor forma!\xf000븁\x0000Vamos lá　\xf000Ā\x0001\x0000！\xfffeVamos combater!\xf000븁\x0000
 ねえねえ！　あたしと\xfffeポケモンしょうぶ　しよう！\xf000븁\x0000\xf000Ā\x0001\x0000が　そのきに　なったら\xfffeアタシに　はなしかけて
 ……はこは　からっぱ
@@ -40,18 +40,18 @@ Bel: Oops...!\xf000븁\x0000\xf000Ā\x0001\x0000...\xfffeDesculpa por esta confu
 Cheren: ... ... ...\xfffe... ... ...\xf000븁\x0000Bel, olha o que fizeste!\xfffeTu não cresces?\xf000븁\x0000
 Bel: Uau!\xfffeEstá pior do que eu pensava!\xf000븁\x0000
 Bem, Combater é memso fixe!\xfffeEu habituo-me!!!\xf000븁\x0000Eu vou ser a melhor \xfffetreinadora Pokemon de sempre!\xf000븁\x0000... Desculpa estou a ficar\xfffetoda entusiamada, \xf000Ā\x0001\x0000...\xf000븁\x0000
-Cheren: ... Bem, os vossos Pokémon ficaram\xfffeferidos depois do combate!\xf000븁\x0000Bem... é melhor cura-los...\xfffeCurai sempre os vossos Pokémon depois de um combate!\xf000븁\x0000
+Cheren: ... Bem, os vossos Pokémon ficaram\xfffeferidos depois do combate!\xf000븁\x0000Bem... é melhor cura-los...\xfffeCurai sempre os vossos Pokémon...!\xf000븁\x0000
 Cheren curou o Pokemon da　Bel!\xfffeEstá melhor e saudável!
 \xf000Ā\x0001\x0000, Vou também curar o teu \xfffePokémon...\xf000븁\x0000
 Cheren curou o Pokemon do \xf000Ā\x0001\x0000!\xfffeEstá melhor e saudável!
 Cheren: ポケモンの　たいりょく……\xfffeＨＰを　へらすことなく\xf000븀\x0000しょうりするのは　すごいよ\xf000븁\x0000だけど　ポケモンの　わざポイント……\xfffeＰＰが　へっているからね\xf000븁\x0000
-Bel: Hey! Cheren, porque não\xfffecombates também?\xf000븁\x0000É muito divertido!\xfffeEntão... Vais combater?\xf000븀\x0000Think of the fun!\xf000븁\x0000
+Bel: Hey! Cheren, porque não\xfffecombates também?\xf000븁\x0000É muito divertido!\xfffeEntão... Vais combater?\xf000븀\x0000Pensa como é divertido!\xf000븁\x0000
 Cheren: Okay...!\xf000븁\x0000É bom para testar as minhas leituras!\xfffeOkay, vou combater!\xf000븀\x0000Vou combater também!\xf000븁\x0000Se dizes que combater é divertido,\xfffeentão por que não experimentar?\xf000븀\x0000Não tenho nada a perder!\xf000븁\x0000
 \xf000Ā\x0001\x0000……\xf000븁\x0000へやは　よごさないと　ちかうから\xfffeぼくとも　しょうぶ　してくれないか？\xf000븀\x0000よければ　はなしかけてよ
 Cheren: Hey!\xf000븁\x0000
 Bel: あたしね　\xf000Ā\x0001\x0000と\xfffeCherenの　ポケモンしょうぶ　って\xf000븀\x0000ぜったいに　みごたえ　あるとおもう！
 Cheren: Pergunto-me?\xfffeVais lutar comigo a serio?
-Bem, vamos começar...\xfffeTenho que te dizer que estou um bocado nervoso!\xf000븁\x0000Por isso se perder, é isso!\xfffeSim, de estar nervoso...!\xf000븁\x0000Bem, vamos lá!\xfffeBoa Sorte \xf000ā\x0001\x0001, Espero que ganhes！\xf000븁\x0000
+Bem, vamos começar...\xfffeTenho que admitir,estou um bocado nervoso!\xf000븁\x0000Por isso se perder, é isso!\xfffeSim, de estar nervoso...!\xf000븁\x0000Bem, vamos lá!\xfffeBoa sorte \xf000ā\x0001\x0001, Espero que ganhes！\xf000븁\x0000
 Cheren: Ves...?\xfffeCombater com um Pokemon da-te uma ligação.\xf000븁\x0000Essa ligação é importante...\xfffeVai te ajudar a vencer!\xf000븁\x0000Mas também...\xfffeCombater a serio é divertido!\xf000븀\x0000Tinhas razão Bel...\xf000븁\x0000
 Cheren: Ves...?\xfffeCombater com um Pokemon da-te uma ligação.\xf000븁\x0000Essa ligação é importante...\xfffeVai te ajudar a vencer!\xf000븁\x0000Mas também...\xfffeCombater a serio é divertido!\xf000븀\x0000Tinhas razão Bel...\xf000븁\x0000
 Cheren: この　かんどう……\xfffeようやく　トレーナーに　なれたんだ\xf000븁\x0000……じゃなくて\xfffeへやのこと　きみの　ママに\xf000븀\x0000あやまらないと　いけないね\xf000븁\x0000
