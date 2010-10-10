@@ -7,7 +7,7 @@
 レポートに　かきこんでいます\xfffeしばらく　おまちください
 では　バトルけんてい　はじめるよ！\xfffeなかに　どうぞー！\xf000븁\x0000
 おつかれさま！\xf000븁\x0000では　さっそく　バトルけんていの\xfffeけっかを　おつたえしますよ\xf000븁\x0000あなたの　けんていけっかは……\xf000븁\x0000
-なんと　マスターランク！！！\xfffePlease wait a moment
+なんと　マスターランク！！！\xfffePor favor aguarde
 けっかは　エリートランク！！\xfffeともだちに　じまん　できるかも！
 けっかは　ハイパーランク！\xfffeいろいろ　けんきゅう　してますね？
 けっかは　スーパーランクですよ\xfffeなかなか　おつよい　ですね
@@ -28,24 +28,24 @@
 げんざい　ひょうじする　\xfffeけんていけっかが　ありません
 どちらの　けんていけっかを\xfffeみますか？
 つうしんちゅうです　でんげんをきらずに\xfffeおまちください…　Ｂボタンでキャンセル
-Challenge
-Explanation
-Quit
-Single
-Double
-Download
-Common
-Special
-Single Battle
-Double Battle
-Results
-Points
+Desafio
+Explicação
+Sair
+A Um
+A Dois
+Descarregar
+Comum
+Especial
+Batalha a Um
+Batalha a Dois
+Resultados
+Pontos
 \xf000ȃ\x0001\x0000
-Beginner Rank
-Novice Rank
-Normal Rank
-Super Rank
-Hyper Rank
-Elite Rank
-Master Rank
+Quali. de Iniciado
+Quali. de Novato
+Quali. Normal
+Quali. Super
+Quali. Hyper
+Quali. Elite
+Quali. Master
 ダウンロードを　キャンセルしました！
