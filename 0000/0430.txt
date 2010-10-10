@@ -14,9 +14,9 @@ Há 3 pokémons\xfffeincluidos com esta\xfffecarta, cada um \xfffeescolhe o seu!
 Pokémon de Fogo\xfffe「\xf000\xff00\x0001\x0001\xf000ā\x0001\x0001\xf000\xff00\x0001\x0000」 está no interior.\xf000븁\x0000Escolher este pokemon?
 Pokémon de Erva\xfffe「\xf000\xff00\x0001\x0001\xf000ā\x0001\x0001\xf000\xff00\x0001\x0000」 está no interior.\xf000븁\x0000Escolher este pokemon?
 Pokémon de Água\xfffe「\xf000\xff00\x0001\x0001\xf000ā\x0001\x0001\xf000\xff00\x0001\x0000」 está no interior.\xf000븁\x0000Escolher este pokemon?
-\xf000봂\x0000Water Pokémon\xfffe\xf000봂\x0000「\xf000ā\x0001\x0001」
-\xf000봂\x0000Fire Pokémon\xfffe\xf000봂\x0000「\xf000ā\x0001\x0001」
-\xf000봂\x0000Grass Pokémon\xfffe\xf000봂\x0000「\xf000ā\x0001\x0001」
+\xf000봂\x0000Pokémon de Água\xfffe\xf000봂\x0000「\xf000ā\x0001\x0001」
+\xf000봂\x0000Pokémon de Fogo\xfffe\xf000봂\x0000「\xf000ā\x0001\x0001」
+\xf000봂\x0000Pokémon de Erva\xfffe\xf000봂\x0000「\xf000ā\x0001\x0001」
 Escolhe o teu Pokemon.
 Escolher este pokemon?
 Eu escolho este!
