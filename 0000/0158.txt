@@ -1,7 +1,7 @@
-テストメッセージです
-\xf000ȅ\x0001\x0002円
+Test Message
+$\xf000ȅ\x0001\x0002
 Gostaria de gravar a sua \xfffe actividade até este ponto?
-まえに　かかれた　レポートに\xfffeうえから　かいても　いいですか？
+There is already a saved file.\xfffeIs it OK to overwrite it?？
 O jogo está a ser guardado.\xfffeNão desligue a consola.
 \xf000ă\x0001\x0000\xfffesalvou o jogo!
 ちゅうい！！\xf000븁\x0000『つづきから　はじめる』で\xfffeぼうけん　していた\xf000븀\x0000レポートが　かかれています！\xf000븁\x0000そちらで　プレイしていた　ぼうけんや\xfffeすべての　ポケモン　どうぐ　などが\xf000븀\x0000きえてしまいます……\xf000븁\x0000ほんとうに\xfffeうえから　かいても　いいですか？
@@ -9,9 +9,9 @@ O jogo está a ser guardado.\xfffeNão desligue a consola.
 すでに　べつの　ポケモンレポートが\xfffeかかれていますので\xf000븀\x0000レポートが　かけません！\xf000븁\x0000くわしくは\xfffeとりあつかいせつめいしょを\xf000븀\x0000ごらんください
 すでに　べつの　ポケモンレポートが\xfffeかかれていますので\xf000븀\x0000レポートが　かけません！\xf000븁\x0000くわしくは\xfffeとりあつかいせつめいしょを\xf000븀\x0000ごらんください\xf000븁\x0000
 レポートに　たくさん　かきこんでいます\xfffeでんげんを　きらないでください
-セーブデータ　書き込み中　１
-セーブデータ　書き込み中　２
-セーブデータ　書き込み中　３
+Writing a save game...\xfffeDon't turn off the power.
+Writing a save game...\xfffeDon't turn off the power.
+Writing a save game...\xfffeDon't turn off the power.
 しんにゅう　しているときや\xfffeしんにゅう　されているときは\xf000븀\x0000レポートが　かけません！
 だれかと　せつぞくちゅうの　ようですが\xfffeせつだんして　よろしいですか？
 つうしんを　せつだん　します\xfffeしばらく　おまちください
@@ -22,6 +22,6 @@ O jogo está a ser guardado.\xfffeNão desligue a consola.
 みんな　げんきに　なりましたよ！\xf000븁\x0000\xfffeそれでは　がんばってください！
 ほんたいの　むせんつうしんが\xfffeオフに　なっています\xf000븁\x0000ほんたいせっていで　むせんつうしんを\xfffeオンに　してください　（５０６９９）\xf000븁\x0000
 ほんたいの　むせんつうしんが\xfffeオフに　なっています\xf000븁\x0000ほんたいせっていで　むせんつうしんを\xfffeオンに　してください　（５０６９９）
-アララギの　ことば……\xfffe\xf000Ā\x0001\x0000！　こういう　ものには\xf000븀\x0000つかいどきが　あるのよ
+Araragi’s words echoed...\xfffe\xf000Ā\x0001\x0000!　There’s a time and\xf000븀\x0000place for everything! But not now.
 ここでは　おりられない！
-リボンを　もっている　ポケモンが\xfffeてもちに　いません
+This Pokémon can't have\xfffethis specific Ribbon...
