@@ -1,21 +1,21 @@
-プラズマだん『じいさん！　あんたが\xfffeそだてや　ってのは　しっているんだ！\xf000븁\x0000\xfffeなんたって　オレたち\xfffeプラズマだん　だからさ！\xf000븁\x0000
-プラズマだん『オレたち\xfffeひとの　ポケモン　うばってんだよ\xf000븁\x0000そだてやと　いったら\xfffeいろんな　ポケモン　あずかってんだろ\xf000븀\x0000それを　オレらに　よこせよ！\xf000븁\x0000
-じいさん『なんという　ムチャを！\xf000븁\x0000
-おお！　つよそうな　トレーナーさん\xfffeたすけておくれ！\xf000븁\x0000
-プラズマだん『ジャマするなら\xfffeオマエの　ポケモンを　うばうぜ！\xf000븁\x0000
-プラズマだん『！！\xf000븁\x0000
-プラズマだん『なんだ　コイツ！\xfffeひとまず　にげると　するか！\xf000븁\x0000\xfffeゆうえんちで　やりすごそう！\xf000븁\x0000
-じいさん『ありがとうよ！\xf000븁\x0000\xfffeこいつは　きもちじゃ\xfffeえんりょせずに　もらってくれ！\xf000븁\x0000\xfffeしんぴんの　じてんしゃで\xfffeライモンシティを　かんこうする\xf000븀\x0000よてい　だったが……\xf000븀\x0000けっきょく　のらずじまい　でな\xf000븁\x0000
-じいさん『わしは　３ばんどうろで\xfffeそだてやを　やっておるんじゃ！\xf000븁\x0000\xfffeそだててほしい　ポケモンが　いれば\xfffeえんりょせずに　あずけておくれ！\xf000븁\x0000\xfffe……ふう　かんこうに　きて\xfffeエライめに　あったもんじゃ！\xf000븁\x0000
-ベル『おうい！　\xf000Ā\x0001\x0000！\xf000븁\x0000
-ベル『ねえねえ！　\xf000Ā\x0001\x0000！\xf000븁\x0000
-はかせに　おしえてもらったけど\xfffeライモンシティって\xf000븀\x0000みどころ　いっぱい　なんでしょ！\xf000븁\x0000ゆうえんち　でしょ\xfffeビッグスタジアムに　リトルコート\xf000븁\x0000それに　バトルサブウェイ！\xf000븁\x0000
-あたしは　ミュージカルに\xfffeいくつもりなの！　じゃあねえ！！\xf000븁\x0000
-ベル『おうい！　\xf000Ā\x0001\x0000！\xf000븁\x0000
-ベル『ねえねえ！　\xf000Ā\x0001\x0000！\xf000븁\x0000
+Plasma Grunt: Hey, gramps!\xfffeSo you're a caretaker, huh?!\xf000븁\x0000\xfffeTeam Plasma\xfffeknows your needs!\xf000븁\x0000
+Plasma Grunt: Yeah,\xfffewe take people's Pokémon!\xf000븁\x0000You could say we're taking Pokémon\xfffeinto our custody to raise them!\xf000븀\x0000So hand 'em over!\xf000븁\x0000
+Old Man: What nonsense!\xf000븁\x0000
+Oh! Trainer, you look strong!\xfffeHelp me!\xf000븁\x0000
+Plasma Grunt: Get in the way, and\xfffewe'll take your Pokémon too!\xf000븁\x0000
+Plasma Grunt: !!\xf000븁\x0000
+Plasma Grunt: What ARE you?!\xfffeI think we better run for now!\xf000븁\x0000\xfffeLet's head into the park!\xf000븁\x0000
+Old Man: Thank you!\xf000븁\x0000\xfffeTake this as an\xfffeexpression of my gratitude!\xf000븁\x0000\xfffeI was planning on riding this bike\xfffeto and from Raimon City, but...\xf000븀\x0000Well, I don't think I'll\xf000븀\x0000be doing that after all.\xf000븁\x0000
+Old Man: I run a daycare\xfffeon Route 3!\xf000븁\x0000\xfffeIf there's any Pokémon you want us to\xffferaise, feel free to leave them with us!\xf000븁\x0000\xfffe...Whew, coming here\xfffewas quite an experience!\xf000븁\x0000
+Bel: Heyyy! \xf000Ā\x0001\x0000!\xf000븁\x0000
+Bel: Heyyy! \xf000Ā\x0001\x0000!\xf000븁\x0000
+I heard from the Professor\xfffethat Raimon City is\xf000븀\x0000loaded with attractions!\xf000븁\x0000It's like an amusement park!\xfffeThe Big Stadium, the Little Court...\xf000븁\x0000And the Battle Subway!\xf000븁\x0000
+Me, I'm gonna go to the\xfffeMusical Hall! See you!!\xf000븁\x0000
+Bel: Heyyy! \xf000Ā\x0001\x0000!\xf000븁\x0000
+Bel: Heyyy! \xf000Ā\x0001\x0000!\xf000븁\x0000
 さっき　ミュージカルホールを\xfffeのぞいたんだけど　すごいよー！？\xf000븁\x0000せっかくだからさー\xfffe\xf000Ā\x0001\x0000も　いこうよー！\xf000븁\x0000はい\xfffeこっちこっちー！\xf000븁\x0000
 はい　とうちゃくー！\xfffeじゃあ　はいろうっ！\xf000븁\x0000
-ベル『あっ　\xf000Ā\x0001\x0000！\xf000븁\x0000ミュージカルが　きになる？\xfffeじゃあ　いっしょに　はいろうっ！\xf000븁\x0000
+Bel: Oh,　\xf000Ā\x0001\x0000!\xf000븁\x0000You're wondering about the musicals?\xfffeCome in with me!\xf000븁\x0000
 ベル『パパ！？\xfffeどうしたの　こんなところで？\xf000븁\x0000
 ベルのパパ『どうもこうも\xfffeおまえを　つれもどしに　きたんだよ\xf000븁\x0000ママから　きいたけれど\xfffeここまで　たびを　したんだ\xf000븀\x0000もう　じゅうぶん　じゃないか\xf000븁\x0000
 ベル『やだあ！！\xf000븁\x0000\xf000Ā\x0001\x0000や　ポケモンと\xfffeいっしょに　たび　するんだもん！\xf000븁\x0000
