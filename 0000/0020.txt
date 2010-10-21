@@ -1,14 +1,14 @@
-Cheren: Wow!\xfffeThis is some good stuff!\xf000븁\x0000If only I had someone\xfffeto battle right about now...\xf000븁\x0000I think I might be able to beat\xfffe....!\xf000븁\x0000
-Ah!　\xf000Ā\x0001\x0000\xf000븁\x0000I was looking for you!\xfffeWould you like to battle?
-Great!\xfffeThen I can show you what I learned!\xf000븀\x0000I better be careful...\xf000븁\x0000Wait, you agree?\xf000븁\x0000
-I just learned a lot from this school.\xfffeI think I might beat you!\xf000븁\x0000Did you know you can EV Train?\xfffeI bet you didn't!\xf000븀\x0000I can tell you want to leave..\xf000븁\x0000
-Oh!　\xf000Ā\x0001\x0000\xfffeare you afraid you'll lose?\xf000븁\x0000Come on!\xfffeI got some stuff to show you!\xf000븁\x0000Are you sure?\xfffeYou want to battle right?
-Cheren:\xf000Ā\x0001\x0000\xfffeI see you are finally ready!\xf000븁\x0000You are ready aren't you?\xfffeC'mon, I want to battle!
-Really?　Well if you insist!\xfffeI take it you need to train.\xf000븀\x0000I'm certain you have your reasons.\xf000븀\x0000Come back when you're ready!
-Cheren: Okay!\xfffeNow to remember what I learned...\xf000븁\x0000Ah yes I know!\xfffeI hope you know what you're up against.\xf000븁\x0000I won't be as easy as before!\xfffeMy Pokémon are stronger!\xf000븁\x0000
-Cheren: Oh, darn I lost...\xfffeYou learned a thing or two as well.\xf000븁\x0000Well...　\xf000Ā\x0001\x0000\xfffeHere, take this!\xf000븁\x0000
-Cheren: When a Pokémon's health is low you\xfffecan use items to heal them.\xf000븁\x0000You must be careful though because\xfffeyou lose a turn!\xf000븁\x0000If you get to know your Pokémon then\xfffeyou know how much it can take.\xf000븀\x0000All Gym Leaders know this.\xf000븁\x0000Speaking of which, you should head to\xfffethe Gym in town!\xf000븁\x0000
-Pokémon have many different traits.\xfffePokémon that are bred tend to know\xf000븁\x0000\xfffemoves their parents knew.\xfffeIt also depends on held items too！
+Cheren: Wow!\xfffeIsto até são coisas fixex!\xf000븁\x0000Se tivesse alguém para\xfffecombater neste preciso momento...\xf000븁\x0000Acho que seria capaz de vencer\xfffe....!\xf000븁\x0000
+Ah!　\xf000Ā\x0001\x0000\xf000븁\x0000Estava mesmo a pensar em ti!\xfffeQueres um combate?
+Fixe!\xfffeVou-te mostrar o que aprendi!\xf000븀\x0000É melhor ter cuidado...\xf000븁\x0000Espera, concordas?\xf000븁\x0000
+Aprendi muito com esta escola.\xfffeAcho que posso vencer-te!\xf000븁\x0000Sabias que podes aumentar o EV?\xfffeAposto que não sabias!\xf000븀\x0000Poson dizer-te quando perderes..\xf000븁\x0000
+Oh!　\xf000Ā\x0001\x0000\xfffeestás com medo de perder?\xf000븁\x0000Anda lá!\xfffeTenho que te mostrar umas coisas!\xf000븁\x0000Tens a certeza?\xfffeQueres mesmo combater?
+Cheren:\xf000Ā\x0001\x0000\xfffeVejo que estás preparado!\xf000븁\x0000Está mesmo preparado?\xfffeVamos, quero combater!
+A sério?　Se insistes!\xfffeTu precisas de treinar.\xf000븀\x0000Tenho a certeza que tu tens razões.\xf000븀\x0000Volta quando tiveres preparado!
+Cheren: Okay!\xfffeAgora para lembrar o que aprendi...\xf000븁\x0000Ah sim eu sei!\xfffeEspero que saibas com quem estás a lutar.\xf000븁\x0000Não vou ser fácil como antes!\xfffeOs meus Pokémon são fortes!\xf000븁\x0000
+Cheren: Oh, perdi...\xfffeTambém aprendeste uma coisa ou duas.\xf000븁\x0000Bem...　\xf000Ā\x0001\x0000\xfffeToma, fica com isto!\xf000븁\x0000
+Cheren: Quando a energia do teu Pokémon está baixa\xfffepodes utilizar items para os curar.\xf000븁\x0000Tens de ter cuidado porque\xfffeperdes a tua vez!\xf000븁\x0000Se conheceres o teu Pokémon então\xfffetu sabes o quanto pode demorar.\xf000븀\x0000Todos os Lideres de Ginásio sabem.\xf000븁\x0000A falar nisso, tens de ir\xfffeao Ginásio da Vila!\xf000븁\x0000
+Os Pokémon têm características diferentes.\xfffeOs Pokémon que são criados tendem\xf000븁\x0000\xfffesaber ataques que os pais sabem.\xfffeTambém depende dos itens que têm！
 ポケモンには　とくせい　と　よばれる\xfffeふしぎな　ちからが　そなわってるよ\xf000븁\x0000とくせいの　こうかには\xfffeいろんな　しゅるいが　あって\xf000븁\x0000その　おおくは　たたかっているときに\xfffeこうかを　はっき　するよ！
 しんかキャンセル　という\xfffeテクニックが　あるんだよね\xf000븀\x0000いいかい？　ほんを　よむよ\xf000븁\x0000「ポケモンが　しんかする　しゅんかん\xfffe　Ｂボタンを　おすことで\xf000븀\x0000　ポケモンは　おどろき　しんかをやめる」
 わざマシンを　つかうことでしか\xfffeおぼえない　わざも　ある\xf000븁\x0000\xfffeわざマシンは　なんどでも　つかえるから\xfffeどんどん　つかうのも　いいかもな\xf000븁\x0000\xfffeおぼえさせた　わざが　いまいちだったら\xfffeべつの　わざマシンを　つかえばいいし
