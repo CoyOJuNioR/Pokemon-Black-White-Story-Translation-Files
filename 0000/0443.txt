@@ -1,15 +1,15 @@
-これは　むかし　てにいれた\xfffeモンスターボール　だが\xf000븀\x0000\xfffeきみに　あげようではないか\xf000븁\x0000
-モンスターボールが　ないと\xfffeポケモンは　つかまえられない！\xf000븁\x0000\xfffeいろんな　モンスターボールがあるから\xfffeうまく　つかいわけなさいよ
-ちちぃ！
-ねえねえ\xfffeポケモンじゃんけん　しようよ！
-なんだ　がっかり……\xfffeつまんないの
-じゃあ　いくよ！\xfffeポケモン　じゃんけん　いっせーの……
-あなたが　ほのおで\xfffeあたしは　くさ……\xf000븁\x0000くさタイプは\xfffeほのおタイプに　よわい……\xf000븀\x0000ということで　あたしの　まけね
-あなたが　ほのおで\xfffeあたしは　みず……\xf000븁\x0000ほのおタイプは\xfffeみずタイプに　よわい！\xf000븀\x0000ということで　あたしの　かち！
-あなたが　みずで\xfffeあたしは　ほのお……\xf000븁\x0000ほのおタイプは\xfffeみずタイプに　よわい……\xf000븀\x0000ということで　あたしの　まけね
-あなたが　みずで\xfffeあたしは　くさ……\xf000븁\x0000みずタイプは\xfffeくさタイプに　よわい！\xf000븀\x0000ということで　あたしの　かち！
-あなたが　くさで\xfffeあたしは　みず……\xf000븁\x0000みずタイプは\xfffeくさタイプに　よわい……\xf000븀\x0000ということで　あたしの　まけね
-あなたが　くさで\xfffeあたしは　ほのお……\xf000븁\x0000くさタイプは\xfffeほのおタイプに　よわい！\xf000븀\x0000ということで　あたしの　かち！
-ほのお
-くさ
-みず
+This is a Pokéball I got\xfffea really long time ago...\xf000븀\x0000\xfffeHow about I give it to you?\xf000븁\x0000
+Without a Pokéball,\xfffeyou can't catch Pokémon!\xf000븁\x0000\xfffeThere are many kinds of Pokéballs,\xfffeso use them well.
+Chee-chee!
+Hey there!\xfffeLet's play Rock Paper Pokémon!
+Well, gosh...\xfffeYou're boring!
+Okay, here goes!\xfffeRoooock, Papeeeer...
+You're fire,\xfffeand I'm grass...\xf000븁\x0000Grass-types are\xfffeweak to fire-types...\xf000븀\x0000Which means I lose...
+You're fire,\xfffeand I'm water...\xf000븁\x0000Fire-types are\xfffeweak to water-types!\xf000븀\x0000Which means I win!
+You're water,\xfffeand I'm fire...\xf000븁\x0000Fire-types are\xfffeweak to fire-types...\xf000븀\x0000Which means I lose...
+You're water,\xfffeand I'm grass...\xf000븁\x0000Water-types are\xfffeweak to grass-types!\xf000븀\x0000Which means I win!
+You're grass,\xfffeand I'm water...\xf000븁\x0000Water-types are\xfffeweak to grass-types...\xf000븀\x0000Which means I lose...
+You're grass,\xfffeand I'm fire...\xf000븁\x0000Grass-types are\xfffeweak to fire-types!\xf000븀\x0000Which means I win!
+Fire!
+Grass!
+Water!
